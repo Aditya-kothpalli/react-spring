@@ -187,7 +187,7 @@ const AddProduct = () => {
         </div>
         <div className="col-12">
           <button
-            type="submit"
+            type="submitt"
             className="btn btn-primary"
             // onClick={submitHandler}
           >
