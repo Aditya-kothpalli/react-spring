@@ -152,7 +152,7 @@ const Home = ({ selectedCategory }) => {
                       }}
                       disabled={!productAvailable}
                     >
-                      {productAvailable ? "Add to Cart" : "Out of Stock"}
+                      {productAvailable ? "Add to Cartss" : "Out of Stock"}
                     </button>
                   </div>
                 </Link>
